@@ -1,0 +1,2 @@
+useDynLib(HandMadeKalmanFilter)
+exportPattern("^[[:alpha:]]+")
